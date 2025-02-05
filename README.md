@@ -2,8 +2,7 @@
 To-Do List 📝 
 
 To-Do List 📝
-A simple and interactive To-Do List application built using HTML, CSS, and JavaScript. This lightweight app helps users efficiently manage their tasks with an intuitive and responsive design.
-
+A simple and efficient To-Do List application that helps users manage their tasks effectively. The app allows users to add, edit, mark as complete, and delete tasks. Built with a user-friendly interface, it ensures seamless task management.
 ✨ Features
 
 
