@@ -8,14 +8,25 @@ A simple and interactive To-Do List application built using HTML, CSS, and JavaS
 
 
 ✅ Add new tasks effortlessly
+
+
 ✅ Edit tasks to make updates
+
+
 ✅ Mark tasks as completed
+
+
 ✅ Delete tasks when no longer needed
+
+
 ✅ Responsive design for a seamless experience
 
 🛠 Technologies Used
 
 
 HTML – Structure the app layout
+
 CSS – Style for a clean and modern look
+
+
 JavaScript – Manage dynamic interactions
